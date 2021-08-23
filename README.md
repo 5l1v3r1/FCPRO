@@ -48,23 +48,21 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 ```python
 $ apt update && apt upgrade
 $ apt install python2
-$ pip2 install lolcat
 $ pip2 install mechanize
 $ pip2 install requests bs4
 $ apt install git
-$ rm -rf FILE-CLONER-PRO
-$ git clone https://github.com/Azim-Vau/FILE-CLONER-PRO.git
+$ git clone https://github.com/Azim-Vau/FCPRO.git
 ```
 #### Run script
 ```python
-$ cd FILE-CLONER-PRO
-$ python2 filecr3kpro.py
+$ cd FCPRO
+$ python2 fcpro.py
 ```
 
 #### [~] Single Command
 
 ```python
-apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pip2 install lolcat ; apt install git -y ; git clone https://github.com/Azim-vau/FILE-CLONER-PRO ; cd FILE-CLONER-PRO ; python2 filecr3kpro.py
+apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/Azim-vau/FILE-CLONER-PRO ; cd FCPRO ; python2 fcpro.py
 ```
 #### MY SOCIAL MEDIA
 
