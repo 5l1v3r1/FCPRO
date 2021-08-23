@@ -20,25 +20,25 @@ CONTACT : <i>errorazim@gmail.com</i>  <br> <br>
 <a href="https://github.com/Azim-Vau/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/Azim-vau?label=Followers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Azim-Vau/termux-style/stargazers/">
-  <a href="https://github.com/Azim-Vau/FILE-CLONER-PRO">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Azim-Vau/FILE-CLONER-PRO.svg"/>
+  <a href="https://github.com/Azim-Vau/FCPRO">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Azim-Vau/FCPRO.svg"/>
   </a>
-  <a href="https://github.com/Azim-Vau/FILE-CLONER-PRO">
-    <img alt="Language" src="https://img.shields.io/github/languages/count/Azim-Vau/FILE-CLONER-PRO.svg"/>
+  <a href="https://github.com/Azim-Vau/FCPRO">
+    <img alt="Language" src="https://img.shields.io/github/languages/count/Azim-Vau/FCPRO.svg"/>
   </a>
-  <a href="https://github.com/Azim-Vau/FILE-CLONER-PRO">
-    <img alt="Search" src="https://img.shields.io/github/search/Azim-vau/Cracker/FILE-CLONER-PRO.svg"/>
+  <a href="https://github.com/Azim-Vau/FCPRO">
+    <img alt="Search" src="https://img.shields.io/github/search/Azim-vau/Cracker/FCPRO.svg"/>
   </a>
-  <a href="https://github.com/Azim-Vau/FILE-CLONER-PRO">
-    <img alt="Starts" src="https://img.shields.io/github/stars/Azim-Vau/FILE-CLONER-PRO.svg"/>
+  <a href="https://github.com/Azim-Vau/FCPRO">
+    <img alt="Starts" src="https://img.shields.io/github/stars/Azim-Vau/FCPRO.svg"/>
   </a>
-<a href="https://github.com/Azim-Vau/FILE-CLONER-PRO">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Azim-Vau/FILE-CLONER-PRO.svg"/>
+<a href="https://github.com/Azim-Vau/FCPRO">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Azim-Vau/FCPRO.svg"/>
   </a>
 
-<a href="https://github.com/Azim-Vau/FILE-CLONER-PRO">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Azim-vau/FILE-CLONER-PRO.svg"/> <a href="https://github.com/Azim-Vau/FILE-CLONER-PRO">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Azim-vau/FILE-CLONER-PRO.svg"/>
+<a href="https://github.com/Azim-Vau/FCPRO">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Azim-vau/FCPRO.svg"/> <a href="https://github.com/Azim-Vau/FCPRO">
+    <img alt="Forks" src="https://img.shields.io/github/forks/Azim-vau/FCPRO.svg"/>
   </a>
 </div>
 
@@ -62,7 +62,7 @@ $ python2 fcpro.py
 #### [~] Single Command
 
 ```python
-apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/Azim-vau/FILE-CLONER-PRO ; cd FCPRO ; python2 fcpro.py
+apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/Azim-vau/FCPRO ; cd FCPRO ; python2 fcpro.py
 ```
 #### MY SOCIAL MEDIA
 
