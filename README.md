@@ -65,7 +65,7 @@ $ python2 fcpro.py
 apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/Azim-vau/FCPRO ; cd FCPRO ; python2 fcpro.py
 ```
 <b>DOWNLOAD ACCESS TOKEN APK</b><br>
- <a href="https://github.com/Azim-vau/MODULES/blob/main/accesstoken.apk?raw=true">  VIDEO TUTORIAL</a>
+ <a href="https://github.com/Azim-vau/MODULES/blob/main/accesstoken.apk?raw=true">  DOWNLOAD</a>
 </br>
 #### MY SOCIAL MEDIA
 
